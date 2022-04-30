@@ -10,6 +10,8 @@ A video demonstration of the tool can be found here:
 To install the tool download from git hub. Edit the db_info.txt file with the usernames, host ips, and passwords required for your local database copy.
 
 ## Usage
+Once you have edited the db_info.txt file to access the databases, go to the folder containing app.py and run it in command line using "python app.py"
+
 The "Publications by Faculty" gets the number of publications for the top 10 professors at a given university. Simply select the university and keyword from the 2 drop down menus to perform you search.
 
 The "Faculty Spotlight" allows you to get the contact info of a professor as well as there most cited article. Simply select the professor's name you are interested in from the drop down menu to perform your search.
