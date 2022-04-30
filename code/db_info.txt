@@ -1,0 +1,9 @@
+item,value
+mongo_db_host,"127.0.0.1"
+mongo_db_port,"27017"
+neo4j_uri,bolt://localhost:7687
+neo4j_user,neo4j
+neo4j_password,password
+sql_user,root
+sql_password,password
+sql_host,"127.0.0.1"

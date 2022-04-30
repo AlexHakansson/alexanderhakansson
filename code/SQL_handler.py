@@ -8,7 +8,7 @@ import pandas as pd
 
 class sql_ob:
 
-    def __init__(self, usr = 'root',psw='ko8kmx5rost5',hst='127.0.0.1'):
+    def __init__(self, usr = 'root',psw='password',hst='127.0.0.1'):
     
     
         self.usr =usr
