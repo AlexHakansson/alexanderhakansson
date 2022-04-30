@@ -5,6 +5,7 @@ The purpose of this application is to help students find professors who they sha
 
 ## Demo:
 A video demonstration of the tool can be found here:
+https://mediaspace.illinois.edu/media/t/1_2m55fa2w
 
 ## Installation:
 To install the tool download from git hub. Edit the db_info.txt file with the usernames, host ips, and passwords required for your local database copy.
