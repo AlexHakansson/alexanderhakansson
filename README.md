@@ -7,7 +7,7 @@ The purpose of this application is to help students find professors who they sha
 A video demonstration of the tool can be found here:
 
 ## Installation:
-To install the tool download from git hub. Edit the db_info.txt file with the usernames, host ips, and passwords required for
+To install the tool download from git hub. Edit the db_info.txt file with the usernames, host ips, and passwords required for your local database copy.
 
 ## Usage
 The "Publications by Faculty" gets the number of publications for the top 10 professors at a given university. Simply select the university and keyword from the 2 drop down menus to perform you search.
